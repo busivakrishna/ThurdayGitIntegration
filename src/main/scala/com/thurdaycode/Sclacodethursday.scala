@@ -12,8 +12,7 @@ object Sclacodethursday {
     //ctrl + shift + /
     val name = "spark"
     val age = 12
-
-
+    val Lang = "Scala"
   }
 
 }
